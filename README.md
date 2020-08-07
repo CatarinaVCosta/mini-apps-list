@@ -24,9 +24,14 @@ To run all the available tests.
 
 ## Functionalities
 
-(DONE) - List all the apps 
-(DONE) - Paginate the list (page size = 3) 
-(DONE) - Filter the apps as you type in the search bar
-(DONE) - Have all the existing categories in the left navigation sorted by alphabetic order
-(DONE) - Allow filtering of apps when we click on a category
-(DONE) - Apps should be sorted by ascending order of the sum of the plans price
+- List all the apps 
+
+- Paginate the list (page size = 3) 
+
+- Filter the apps as you type in the search bar
+
+- Have all the existing categories in the left navigation sorted by alphabetic order
+
+- Allow filtering of apps when we click on a category
+
+- Apps should be sorted by ascending order of the sum of the plans price
