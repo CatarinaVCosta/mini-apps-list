@@ -1,0 +1,34 @@
+.cardWrapper {
+    max-width: 80rem;
+    min-width: 50rem;
+    padding-top: 2rem;
+}
+
+.cardComponent {
+    padding-bottom: 2rem;
+}
+
+.subscriptions {
+    display: flex;
+    justify-content: space-between;
+    margin: 1rem 0;
+}
+
+.subscriptionName {
+    padding-right: .5rem;
+    font-size: small;
+    padding: .4rem
+}
+
+.subscriptionPrice {
+    padding-right: 2rem;
+    font-size: larger;
+}
+
+.categories {
+    color: #4bc3c9;
+}
+
+.MuiPagination-ul {
+    justify-content: center;
+}

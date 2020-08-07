@@ -1,0 +1,410 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Homepage /> should render correctly 1`] = `
+<div>
+  <div
+    class="wrapper"
+  >
+    <div
+      class="menu"
+    >
+      <h1
+        class="title"
+      >
+        Categories
+      </h1>
+      <div>
+        <ul
+          class="MuiList-root MuiList-padding"
+          role="menu"
+          tabindex="-1"
+        >
+          <li
+            aria-disabled="false"
+            class="MuiButtonBase-root MuiListItem-root MuiMenuItem-root MuiMenuItem-gutters MuiListItem-gutters MuiListItem-button"
+            data-test="menu-item-category-0"
+            name="menuItem"
+            role="menuitem"
+            tabindex="0"
+          >
+            Dialer
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </li>
+        </ul>
+        <hr
+          class="MuiDivider-root"
+        />
+      </div>
+      <div>
+        <ul
+          class="MuiList-root MuiList-padding"
+          role="menu"
+          tabindex="-1"
+        >
+          <li
+            aria-disabled="false"
+            class="MuiButtonBase-root MuiListItem-root MuiMenuItem-root MuiMenuItem-gutters MuiListItem-gutters MuiListItem-button"
+            data-test="menu-item-category-1"
+            name="menuItem"
+            role="menuitem"
+            tabindex="0"
+          >
+            Optimization
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </li>
+        </ul>
+        <hr
+          class="MuiDivider-root"
+        />
+      </div>
+      <div>
+        <ul
+          class="MuiList-root MuiList-padding"
+          role="menu"
+          tabindex="-1"
+        >
+          <li
+            aria-disabled="false"
+            class="MuiButtonBase-root MuiListItem-root MuiMenuItem-root MuiMenuItem-gutters MuiListItem-gutters MuiListItem-button"
+            data-test="menu-item-category-2"
+            name="menuItem"
+            role="menuitem"
+            tabindex="0"
+          >
+            Reporting
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </li>
+        </ul>
+        <hr
+          class="MuiDivider-root"
+        />
+      </div>
+      <div>
+        <ul
+          class="MuiList-root MuiList-padding"
+          role="menu"
+          tabindex="-1"
+        >
+          <li
+            aria-disabled="false"
+            class="MuiButtonBase-root MuiListItem-root MuiMenuItem-root MuiMenuItem-gutters MuiListItem-gutters MuiListItem-button"
+            data-test="menu-item-category-3"
+            name="menuItem"
+            role="menuitem"
+            tabindex="0"
+          >
+            Voice Analytics
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </li>
+        </ul>
+        <hr
+          class="MuiDivider-root"
+        />
+      </div>
+    </div>
+    <div
+      class="body"
+    >
+      <form
+        data-test="search-form"
+      >
+        <div
+          class="MuiFormControl-root MuiTextField-root MuiFormControl-fullWidth"
+        >
+          <label
+            class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-marginDense MuiInputLabel-outlined"
+            data-shrink="false"
+            for="text-field"
+            id="text-field-label"
+          >
+            Search by app name
+          </label>
+          <div
+            class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-fullWidth MuiInputBase-formControl MuiInputBase-marginDense MuiOutlinedInput-marginDense"
+          >
+            <input
+              aria-invalid="false"
+              class="MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputTypeSearch MuiInputBase-inputMarginDense MuiOutlinedInput-inputMarginDense"
+              id="text-field"
+              type="search"
+              value=""
+            />
+            <fieldset
+              aria-hidden="true"
+              class="PrivateNotchedOutline-root-1 MuiOutlinedInput-notchedOutline"
+            >
+              <legend
+                class="PrivateNotchedOutline-legendLabelled-3"
+              >
+                <span>
+                  Search by app name
+                </span>
+              </legend>
+            </fieldset>
+          </div>
+        </div>
+        <div
+          class="cardWrapper"
+        >
+          <div
+            class="cardComponent"
+            data-test="app-card-9b565b11-7311-5b5e-a699-97873dffb361"
+          >
+            <div
+              class="MuiPaper-root MuiCard-root MuiPaper-elevation1 MuiPaper-rounded"
+              classename="card"
+            >
+              <div
+                class="MuiCardContent-root"
+              >
+                <div
+                  class="name"
+                >
+                  <h5
+                    class="MuiTypography-root MuiTypography-h5"
+                  >
+                    Voice Report
+                  </h5>
+                  <p
+                    class="MuiTypography-root MuiTypography-body2"
+                  >
+                    Calls reporting and analytics of your calls.
+                  </p>
+                  <div
+                    class="categories"
+                  >
+                    <p
+                      class="MuiTypography-root MuiTypography-body2"
+                    >
+                      <label
+                        class="categories"
+                      >
+                        Voice Analytics
+                      </label>
+                      <div
+                        class="categories"
+                      >
+                        /
+                      </div>
+                      <label
+                        class="categories"
+                      >
+                        Reporting
+                      </label>
+                      <div
+                        class="categories"
+                      >
+                        /
+                      </div>
+                      <label
+                        class="categories"
+                      >
+                        Optimization
+                      </label>
+                    </p>
+                  </div>
+                  <p
+                    class="MuiTypography-root MuiTypography-body1"
+                  >
+                    <div
+                      class="subscriptions"
+                      data-test="app-subscription-9b565b11-7311-5b5e-a699-97873dffb361"
+                    >
+                      <label
+                        class="subscriptionName"
+                      >
+                        Trial
+                      </label>
+                      <label
+                        class="subscriptionPrice"
+                      >
+                        Free
+                      </label>
+                    </div>
+                    <div
+                      class="subscriptions"
+                      data-test="app-subscription-9b565b11-7311-5b5e-a699-97873dffb361"
+                    >
+                      <label
+                        class="subscriptionName"
+                      >
+                        Professional
+                      </label>
+                      <label
+                        class="subscriptionPrice"
+                      >
+                        € 35.00
+                      </label>
+                    </div>
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="cardComponent"
+            data-test="app-card-470fedc5-489e-5acb-a200-c85adaa18356"
+          >
+            <div
+              class="MuiPaper-root MuiCard-root MuiPaper-elevation1 MuiPaper-rounded"
+              classename="card"
+            >
+              <div
+                class="MuiCardContent-root"
+              >
+                <div
+                  class="name"
+                >
+                  <h5
+                    class="MuiTypography-root MuiTypography-h5"
+                  >
+                    Power Dialer
+                  </h5>
+                  <p
+                    class="MuiTypography-root MuiTypography-body2"
+                  >
+                    Auto dialer that will help increase your connect rates and talk time.
+                  </p>
+                  <div
+                    class="categories"
+                  >
+                    <p
+                      class="MuiTypography-root MuiTypography-body2"
+                    >
+                      <label
+                        class="categories"
+                      >
+                        Dialer
+                      </label>
+                    </p>
+                  </div>
+                  <p
+                    class="MuiTypography-root MuiTypography-body1"
+                  >
+                    <div
+                      class="subscriptions"
+                      data-test="app-subscription-470fedc5-489e-5acb-a200-c85adaa18356"
+                    >
+                      <label
+                        class="subscriptionName"
+                      >
+                        Trial
+                      </label>
+                      <label
+                        class="subscriptionPrice"
+                      >
+                        Free
+                      </label>
+                    </div>
+                    <div
+                      class="subscriptions"
+                      data-test="app-subscription-470fedc5-489e-5acb-a200-c85adaa18356"
+                    >
+                      <label
+                        class="subscriptionName"
+                      >
+                        Professional
+                      </label>
+                      <label
+                        class="subscriptionPrice"
+                      >
+                        € 45.00
+                      </label>
+                    </div>
+                    <div
+                      class="subscriptions"
+                      data-test="app-subscription-470fedc5-489e-5acb-a200-c85adaa18356"
+                    >
+                      <label
+                        class="subscriptionName"
+                      >
+                        Premium
+                      </label>
+                      <label
+                        class="subscriptionPrice"
+                      >
+                        € 60.00
+                      </label>
+                    </div>
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <nav
+            aria-label="pagination navigation"
+            class="MuiPagination-root"
+          >
+            <ul
+              class="MuiPagination-ul"
+            >
+              <li>
+                <button
+                  aria-label="Go to previous page"
+                  class="MuiButtonBase-root MuiPaginationItem-root MuiPaginationItem-page MuiPaginationItem-rounded Mui-disabled Mui-disabled"
+                  disabled=""
+                  tabindex="-1"
+                  type="button"
+                >
+                  <svg
+                    aria-hidden="true"
+                    class="MuiSvgIcon-root MuiPaginationItem-icon"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M15.41 7.41L14 6l-6 6 6 6 1.41-1.41L10.83 12z"
+                    />
+                  </svg>
+                </button>
+              </li>
+              <li>
+                <button
+                  aria-current="true"
+                  aria-label="page 1"
+                  class="MuiButtonBase-root MuiPaginationItem-root MuiPaginationItem-page MuiPaginationItem-rounded Mui-selected"
+                  tabindex="0"
+                  type="button"
+                >
+                  1
+                  <span
+                    class="MuiTouchRipple-root"
+                  />
+                </button>
+              </li>
+              <li>
+                <button
+                  aria-label="Go to next page"
+                  class="MuiButtonBase-root MuiPaginationItem-root MuiPaginationItem-page MuiPaginationItem-rounded Mui-disabled Mui-disabled"
+                  disabled=""
+                  tabindex="-1"
+                  type="button"
+                >
+                  <svg
+                    aria-hidden="true"
+                    class="MuiSvgIcon-root MuiPaginationItem-icon"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"
+                    />
+                  </svg>
+                </button>
+              </li>
+            </ul>
+          </nav>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+`;
